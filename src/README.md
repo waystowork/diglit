@@ -1,14 +1,14 @@
 ---
 home: true
 icon: house
-title: 项目主页
+title: 首页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 数智未来 DLCN
+tagline: 构建数字生产力。
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -19,42 +19,31 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 易于安装
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
-
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+  - description: 拥抱数字时代，让数字素养与技能成为自我价值实现与追求美好生活的阶梯。
     image: /assets/image/markdown.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 链接检查
-        icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+      - title: 数智搜索
+        icon: https://search.diglit.cn/favicon-32x32.png
+        details: 资源搜索聚合平台
+        link: https://search.szsyw.cn/
 
-      - title: 提示容器
+      - title: 公文写作
         icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+        details: 公文写作素材积累数据库
+        link: https://learningtimes.cn/
 
-      - title: GFM 警告
+      - title: PPT设计与资源
         icon: bell
-        details: GFM 风格的警告容器
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/alert.html
+        details: PPT设计资源导航
+        link: https://szsyw.cn/ppt
 
-      - title: 选项卡
+      - title: 中小学教师教育资源
         icon: table-columns
-        details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/tabs.html
+        details: 全国中小学教师教育资源导航
+        link: https://szsyw.cn/jiaoshi
 
       - title: 代码组
         icon: code
@@ -315,8 +304,8 @@ highlights:
         details: 让你的网站更像一个 APP
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
-copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
+copyright: <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备16010262号-13</a>
+footer: <a href="https://diglit.cn" target="_blank">数智未来 DLCN </a> © 版权所有
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。
