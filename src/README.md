@@ -85,25 +85,25 @@ highlights:
         details: 农业、互联网、交通、短视频、旅游、气象等各类大数据
         link: https://szsyw.cn/data
 
-      - title: 任务列表
+      - title: 视频创作
         icon: square-check
-        details: 轻松插入任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tasklist.html
+        details: 视频创作工具、素材、脚本、文案、配音、字幕、教程等资源
+        link: https://szsyw.cn/video
 
       - title: 政务网址导航
         icon: image
         details: 全国政务网址搜索导航 在线查询、网上政务、投诉举报一网通办
         link: https://szsyw.cn/gov
 
-      - title: 组件支持
+      - title: 新媒体运营
         icon: puzzle-piece
-        details: 在 Markdown 中轻松插入组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/grammar.html
+        details: 新媒体作图、编辑排版、数据分析、创意广告、文案、资讯......
+        link: https://szsyw.cn
 
-      - title: 组件
+      - title: 更多
         icon: puzzle-piece
-        details: 开箱即用的常用组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/built-in.html
+        details: 编辑中
+        link: https://szsyw.cn
 
 copyright: <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备16010262号-13</a>
 footer: <a href="https://diglit.cn" target="_blank">数智未来 DLCN </a> © 版权所有
