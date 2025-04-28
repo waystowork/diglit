@@ -2,21 +2,22 @@
 home: true
 icon: house
 title: 首页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: ./logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 数智未来 DLCN
+heroFullScreen: true
 tagline: 高效工作 品质生活 终身学习
 actions:
-  - text: 使用指南
+  - text: 数字素养网
     icon: lightbulb
-    link: https://search.szsyw.cn/
+    link: https://szsyw.cn/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 学习时间网
+    link: https://learn.szsyw.cn/
 
 highlights:
   - description: 拥抱数字时代，让数字素养与技能成为自我价值实现与追求美好生活的阶梯。
