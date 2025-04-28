@@ -8,11 +8,11 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 数智未来 DLCN
-tagline: 页面正在构建ing.......
+tagline: 高效工作 品质生活 终身学习
 actions:
   - text: 使用指南
     icon: lightbulb
-    link: ./demo/
+    link: https://search.szsyw.cn/
     type: primary
 
   - text: 文档
