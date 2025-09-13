@@ -1,14 +1,14 @@
 ---
 home: true
 icon: house
-title: 首页
+title: DLCN
 heroImage: ./logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
-  background-attachment: fixed
+  background-attachment: cover
 heroText: 数智未来 DLCN
-heroFullScreen: true
+heroFullScreen: false
 tagline: 高效工作 品质生活 终身学习
 actions:
   - text: 数字素养网
@@ -19,12 +19,15 @@ actions:
   - text: 学习时间网
     link: https://learn.szsyw.cn/
 
+  - text: 热点新闻
+    link: https://news.szsyw.cn/
+
 highlights:
   - description: 拥抱数字时代，让数字素养与技能成为自我价值实现与追求美好生活的阶梯。
-    image: /assets/image/markdown.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+    # image: /assets/image/markdown.svg
+    # bgImageStyle:
+    #   background-repeat: repeat
+    #   background-size: initial
     features:
       - title: 数智搜索
         icon: https://search.diglit.cn/favicon-32x32.png
@@ -35,6 +38,11 @@ highlights:
         icon: https://search.diglit.cn/favicon-32x32.png
         details: 文件搜索、看图截图、图片处理、音视频等常用win软件
         link: https://szsyw.cn/windows
+
+      - title: 装机指南
+        icon: https://search.diglit.cn/favicon-32x32.png
+        details: 文件搜索、看图截图、图片处理、音视频等常用win软件
+        link: https://szsyw.cn/pc
 
       - title: 公文写作
         icon: box-archive
