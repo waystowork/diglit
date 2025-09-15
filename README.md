@@ -1,7 +1,22 @@
-- `pnpm docs:dev` 启动开发服务器
-- `pnpm docs:build` 构建项目并输出
-- `pnpm docs:clean-dev` 清除缓存并启动开发服务器
 
+
+### 启动开发服务器
+
+```bash
+pnpm docs:dev
+```
+
+### 构建项目
+
+```bash
+pnpm docs:build
+```
+
+### 清除缓存并启动开发服务器
+
+```bash
+pnpm docs:clean-dev
+```
 
 ## 升级版本
 
