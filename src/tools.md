@@ -1,7 +1,7 @@
 ---
 home: true
-icon: https://szsyw.cn/dlcnimg/zhuye.svg
-title: 首页
+icon: https://szsyw.cn/dlcnimg/xiangmuji.svg
+title: 工具集
 heroImage: https://diglit.cn/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
@@ -12,8 +12,9 @@ heroFullScreen: false
 tagline: 高效工作 多彩生活 终身学习
 actions:
   - text: 数字素养网
-    icon: https://diglit.cn/logo.svg
+    icon: lightbulb
     link: https://szsyw.cn/
+    type: primary
 
   - text: 学习时间网
     link: https://learn.szsyw.cn/
@@ -29,7 +30,7 @@ highlights:
     #   background-size: initial
     features:
       - title: 数智搜索
-        icon: https://szsyw.cn/wp-content/uploads/2025/03/20250325111248-c81b1.png
+        icon: https://search.diglit.cn/favicon-32x32.png
         details: 资源快搜、电子书、图片、字体、资讯等内容检索
         link: https://search.szsyw.cn/
         
