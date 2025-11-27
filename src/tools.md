@@ -29,15 +29,15 @@ highlights:
     #   background-repeat: repeat
     #   background-size: initial
     features:
-      - title: 数智搜索
+      - title: Quick Reference
         icon: https://search.diglit.cn/favicon-32x32.png
-        details: 资源快搜、电子书、图片、字体、资讯等内容检索
-        link: https://search.szsyw.cn/
+        details: 为中文开发者整理的技术栈速查清单
+        link: https://reference.szsyw.cn/
         
-      - title: Windows常用软件
+      - title: Linux命令搜索工具
         icon: https://szsyw.cn/dlcnimg/win11.svg
-        details: 文件搜索、看图截图、图片处理、音视频等常用win软件
-        link: https://szsyw.cn/windows
+        details: 内容包含Linux命令手册、详解、学习、搜集。
+        link: https://linux.szsyw.cn/
 
       - title: 装机指南
         icon: https://szsyw.cn/dlcnimg/win11.svg
