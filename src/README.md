@@ -9,7 +9,7 @@ bgImageStyle:
   background-attachment: cover
 heroText: 数智未来 DLCN
 heroFullScreen: false
-tagline: 高效工作 品质生活 终身学习
+tagline: 高效工作 多彩生活 终身学习
 actions:
   - text: 数字素养网
     icon: lightbulb
